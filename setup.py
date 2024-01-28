@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/Dhruv-os-23/Topsis",
+    download_url="https://github.com/Dhruv-os-23/Topsis-Dhruv-102117061/archive/refs/tags/1.0.4.tar.gz",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
