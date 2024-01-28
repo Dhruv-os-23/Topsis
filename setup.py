@@ -19,12 +19,12 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=["Topsis-Dhruv"],
+    packages=["Topsis_Dhruv"],
     include_package_data=True,
     install_requires='pandas',
     entry_points={
         "console_scripts": [
-            "topsis=Topsis-Dhruv.__main__:main",
+            "topsis=Topsis_Dhruv.__main__:main",
         ]
     },
 )
